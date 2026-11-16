@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=LifeOS 生活记录
+Comment=打开本地个人资料库
+Exec=sh -c 'cd "$(dirname "$1")" && exec ./启动LifeOS.sh' sh %k
+Icon=accessories-text-editor
+Terminal=true
+Categories=Office;

@@ -1,0 +1,6 @@
+interface:
+  display_name: "LifeOS 生活记录"
+  short_description: "记录生活并随时整理本机 LifeOS 收件箱，支持跨对话使用"
+  default_prompt: "使用 $lifeos，把下面的生活记录整理保存到我的白板。"
+policy:
+  allow_implicit_invocation: true

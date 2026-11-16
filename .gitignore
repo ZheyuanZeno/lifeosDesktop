@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+data/*
+!data/.gitkeep
+!data/attachments/
+!data/attachments/.gitkeep
+!data/backups/
+!data/backups/.gitkeep
+*.zip
+.DS_Store
